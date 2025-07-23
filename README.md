@@ -89,12 +89,15 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 ---
+
 ## 📌 Future Improvements
 - Apply regularization techniques (Ridge, Lasso)
 - Add interaction terms for deeper feature analysis
 - Test non-linear models for better accuracy
 - Deploy the model with Flask or Streamlit
+  
 ---
+
 ## 📜 License
 This project is licensed under the MIT License.
 
